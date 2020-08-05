@@ -23,9 +23,7 @@ the website, and gathering demographic information.
 ## Privacy Policies
 
 You may consult this list to find the Privacy Policy for each of the
-advertising partners of Mockjson. Our Privacy Policy was created with
-the help of the [Privacy Policy
-Generator](https://www.privacypolicygenerator.org).
+advertising partners of Mockjson.
 
 Third-party ad servers or ad networks uses technologies like cookies,
 JavaScript, or Web Beacons that are used in their respective
