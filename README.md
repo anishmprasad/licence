@@ -1,1 +1,3 @@
 # licence
+
+MIT
