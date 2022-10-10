@@ -1,3 +1,3 @@
 # licence
 
-MIT
+GNU Public license 2.0
